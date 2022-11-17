@@ -26,5 +26,4 @@ Because your neighbors keep defeating you in the holiday house decorating contes
 You can run test with docker compose, how to run?
 ````shell
 docker-compose build
-docker-compose run --rm app go test github.com/iaejeanx/christmas-light-go/... -v
 ````
