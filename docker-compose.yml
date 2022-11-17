@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: ./docker/java/Dockerfile
+    working_dir: /app
+    volumes:
+      - .:/app
+      - ~/.gradle:/root/.gradle
+
+    command: >
+      sh -c '          
+      while true; do sleep 10; done
+      '

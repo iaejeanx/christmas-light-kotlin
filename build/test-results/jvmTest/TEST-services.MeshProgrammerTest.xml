@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.MeshProgrammerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-17T18:33:14" hostname="MX0C02GT33BQ05P" time="0.373">
+  <properties/>
+  <testcase name="canTestTurnOffRange()[jvm]" classname="services.MeshProgrammerTest" time="0.043"/>
+  <testcase name="canTestTurnOnRange()[jvm]" classname="services.MeshProgrammerTest" time="0.032"/>
+  <testcase name="canTestWinPattern()[jvm]" classname="services.MeshProgrammerTest" time="0.176"/>
+  <testcase name="canToggleRange()[jvm]" classname="services.MeshProgrammerTest" time="0.035"/>
+  <testcase name="canTestExamples()[jvm]" classname="services.MeshProgrammerTest" time="0.085"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
